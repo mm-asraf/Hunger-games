@@ -1,29 +1,304 @@
 {
-  "users": [
+  "hunger": [
     {
-      "id": 1,
-      "name": "David",
-      "age": 30
+      "name": "Swiggy DREWPARK",
+      "rating": "4.8",
+      "total_votes": 966,
+      "reviews": 552,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/kkpteyc95t0r3qwb6cb4",
+      "time_for_prep": "30 min",
+      "price": 900,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
     },
     {
-      "name": "John",
-      "id": 2,
-      "age": 40
+      "name": "CRE DREWPARK",
+      "rating": "3.8",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/iy9mj9extrsokwytc8sh",
+      "time_for_prep": "40 min",
+      "price": 500,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
     },
     {
-      "id": 3,
-      "name": "katrina kaif",
-      "age": 40
+      "name": "Zomatam CREWPARK",
+      "rating": "3.8",
+      "total_votes": 466,
+      "reviews": 422,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/idckqqfvxhf7ovr2rfkg",
+      "time_for_prep": "30 min",
+      "price": 1100,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
     },
     {
-      "name": "julia",
-      "id": 4,
-      "age": 40
+      "name": "Peddler Kings",
+      "rating": "2.8",
+      "total_votes": 656,
+      "reviews": 612,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/rzvgees5xslalswu7pre",
+      "time_for_prep": "30 min",
+      "price": 650,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
     },
     {
-      "id": 5,
-      "name": "David malan",
-      "age": 30
+      "name": "MRE YPARK",
+      "rating": "3.5",
+      "total_votes": 966,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/huwcwcxol7dnbemjlilq",
+      "time_for_prep": "30 min",
+      "price": 400,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Malinga FastFood",
+      "rating": "2.6",
+      "total_votes": 266,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/meuutvak3kfdwqqnuyy7",
+      "time_for_prep": "30 min",
+      "price": 200,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Jeera DREWPARK",
+      "rating": "3.9",
+      "total_votes": 866,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/n3ac37m4yd4z8ktwi5bb",
+      "time_for_prep": "30 min",
+      "price": 1900,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Gangu Bhai Ka Dhaba",
+      "rating": "4.8",
+      "total_votes": 966,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/djjaktw3gdetq2oznd3e",
+      "time_for_prep": "30 min",
+      "price": 900,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Peter Parker da Burger",
+      "rating": "3.8",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/w7hkpygajteu36vz0s9b",
+      "time_for_prep": "30 min",
+      "price": 700,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Luminous Foodie",
+      "rating": "4.6",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cwb561pxpylsvp6tziih",
+      "time_for_prep": "30 min",
+      "price": 1900,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "CRYER Lunch",
+      "rating": "3.8",
+      "total_votes": 266,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/k5l7kgvyipt806imbduq",
+      "time_for_prep": "30 min",
+      "price": 800,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "MOMO ki Shan",
+      "rating": "2.3",
+      "total_votes": 866,
+      "reviews": 812,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/twlfjyqslewr6paewi1m",
+      "time_for_prep": "30 min",
+      "price": 300,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "The Biryani House",
+      "rating": "3.8",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nmtymfibyleylblmkxko",
+      "time_for_prep": "30 min",
+      "price": 400,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Italiana Icecream",
+      "rating": "3.8",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/c4h0nhetz3xer8bfzsrq",
+      "time_for_prep": "30 min",
+      "price": 1500,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Mr India Unique Chat",
+      "rating": "3.8",
+      "total_votes": 756,
+      "reviews": 502,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/kqxetxawqcahnvt68sy7",
+      "time_for_prep": "30 min",
+      "price": 1200,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Foodie House",
+      "rating": "4.5",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jiupe2rfp9lyzgfknfu6",
+      "time_for_prep": "30 min",
+      "price": 1250,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Delhi handi",
+      "rating": "4.9",
+      "total_votes": 566,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/gjueakgjofrp0xvzz1pe",
+      "time_for_prep": "30 min",
+      "price": 1500,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Healthy Wala",
+      "rating": "3.5",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mtcobkbh77251v2aavt7",
+      "time_for_prep": "30 min",
+      "price": 600,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Parker Peddler",
+      "rating": "3.5",
+      "total_votes": 866,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/oxmotyrsxtscjsqbct6e",
+      "time_for_prep": "30 min",
+      "price": 700,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "name": "Kofi DREWPARK",
+      "rating": "3.8",
+      "total_votes": 766,
+      "reviews": 512,
+      "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/satobxlnlz66nzdq4uwe",
+      "time_for_prep": "30 min",
+      "price": 700,
+      "categories": ["continental", "pizza", "Asian", "Desert"],
+      "payment_method": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
     }
   ]
 }
