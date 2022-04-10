@@ -11,7 +11,7 @@
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
         "card": true,
-        "cash": true,
+        "cash": false,
         "upi": true
       }
     },
@@ -27,7 +27,7 @@
       "payment_method": {
         "card": true,
         "cash": true,
-        "upi": true
+        "upi": false
       }
     },
     {
@@ -40,7 +40,7 @@
       "price": 1100,
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
-        "card": true,
+        "card": false,
         "cash": true,
         "upi": true
       }
@@ -56,8 +56,8 @@
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
         "card": true,
-        "cash": true,
-        "upi": true
+        "cash": false,
+        "upi": false
       }
     },
     {
@@ -71,8 +71,8 @@
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
         "card": true,
-        "cash": true,
-        "upi": true
+        "cash": false,
+        "upi": false
       }
     },
     {
@@ -86,8 +86,8 @@
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
         "card": true,
-        "cash": true,
-        "upi": true
+        "cash": false,
+        "upi": false
       }
     },
     {
@@ -100,9 +100,9 @@
       "price": 1900,
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
-        "card": true,
+        "card": false,
         "cash": true,
-        "upi": true
+        "upi": false
       }
     },
     {
@@ -115,8 +115,8 @@
       "price": 900,
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
-        "card": true,
-        "cash": true,
+        "card": false,
+        "cash": false,
         "upi": true
       }
     },
@@ -131,7 +131,7 @@
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
         "card": true,
-        "cash": true,
+        "cash": false,
         "upi": true
       }
     },
@@ -160,7 +160,7 @@
       "price": 800,
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
-        "card": true,
+        "card": false,
         "cash": true,
         "upi": true
       }
@@ -190,9 +190,9 @@
       "price": 400,
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
-        "card": true,
+        "card": false,
         "cash": true,
-        "upi": true
+        "upi": false
       }
     },
     {
@@ -205,7 +205,7 @@
       "price": 1500,
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
-        "card": true,
+        "card": false,
         "cash": true,
         "upi": true
       }
@@ -221,7 +221,7 @@
       "categories": ["continental", "pizza", "Asian", "Desert"],
       "payment_method": {
         "card": true,
-        "cash": true,
+        "cash": false,
         "upi": true
       }
     },
